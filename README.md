@@ -1,2 +1,3 @@
 # uptimed
-A handly uptime status checker
+
+Hard-fork of uptime-kuma + features
